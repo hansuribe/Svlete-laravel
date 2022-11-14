@@ -29,7 +29,7 @@
         "nanoid": "^3.1.12",
         "prettier": "^2.1.2",
         "prettier-plugin-svelte": "^1.4.0",
-        "resolve-url-loader": "^3.1.1",
+        "resolve-url-loader": "^5.0.0",
         "svelte-loader": "^2.13.6",
         "vue-template-compiler": "^2.6.12"
     }
